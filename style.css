@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 10px;
+    padding: 10px;
+    margin:auto;
+    background: url("https://res.cloudinary.com/dui4qpdau/image/upload/v1599887868/Untitled_design_q7uiy0.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+img {
+    height: 150px;
+    width: 300px;
+    border: 2px solid black;
+}
+.para{
+    text-align: center;
+    margin: 0px 100px;
+    border: white 5px solid;
+    border-radius: 5px;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    margin: 50px 0px;
+}
+.imgs{
+    height: 150px;
+    width: 300px;
+    margin: auto;
+    margin: 50px 100px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+#img{
+    text-align: center;
+    padding: 10px;
+}
+.team{
+    text-align: center;
+    padding: 10px;
+    display:inline-block;
+}
+.imgz{
+    margin: 20px 50px;
+    border-radius: 5px;
+    border: 1px solid black;
+    height: 250px;
+    width: 200px;
+}
+a{
+    margin: auto;
+    padding: 20px;
+    display: block;
+    border-radius: 10px;
+    color: whitesmoke;
+    border: white 5px solid;
+    width: max-content;
+    margin-bottom: 80px;
+}
+.image {
+    height: 700px;
+    width: 1100px;
+}
+#div {
+    text-align: center;
+}
+h3 {
+    margin-top: 20px;
+}
+#teams {
+    text-align: center;
+}
+.site {
+    text-align: center;
+}
+h2 {
+    margin-top: 30px;
+}
+#info {
+    padding: 10px;
+}
+#fisherman {
+    padding: 200;
+    max-height: 50px 100px;
+}
